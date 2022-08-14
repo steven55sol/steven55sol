@@ -59,7 +59,7 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
 
 <p width="400px">
   
-  <a src="https://to-do-list-q92hcxl54-steven55sol.vercel.app/"  target="blank">
+  <a href="https://to-do-list-q92hcxl54-steven55sol.vercel.app/"  target="blank">
     <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/proyecto1.png" width="400px" height="200px">
   </a> 
 
