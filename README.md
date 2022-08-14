@@ -48,4 +48,10 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/bootstrap.png" alt="Bootstrap icon" height="60px" width="75px" />
 </p>
 
-# Otras Tecnologias
+# :bulb: Otras Tecnologias
+
+<p>
+  <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/docker.png" alt="Docker icon" height="60px" width="60px"/>
+   <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/npm.png" alt="Npm icon" height="60px" width="60px" />
+   <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/git.png" alt=" Git icon" height="60px" width="60px" />
+</p>
