@@ -1,6 +1,6 @@
 <p align = "center" width="200px">
   <img src = "https://github.com/steven55sol/steven55sol/blob/main/logo-person.png" width="300px" />  
-  <h3 align="center">Desarrollador Web :wolf:</h3>
+  <h3 align="center"> ¡Hey 👋! Steven Sol :wolf:</h3>
 </p>
 
  <p align="center">Soy <strong>Desarrollador Front End :computer: </strong> Amante del Javascript :heart: <br />¡Revisa mi Perfil 👇!</p>
@@ -38,20 +38,21 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
 :x: <strong>Tener un emprendimiento Tecnologico</strong> \
 :o: <strong>Tener los conocimientos suficientes para ser Fullstack</strong>
 
-# :pill: Tecnologias
+# :pill: Tecnologias 
+
+</br>
 
 <p>
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/html.png" alt="Html icon" height="60px" width="60px"/>
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/css3.png" alt="CSS icon" height="60px" width="60px" />
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/javascript.png" alt=" JS icon" height="60px" width="60px" />
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/sass.png" alt="Sass icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/docker.png" alt="Docker icon" height="60px" width="60px"/>
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/npm.png" alt="Npm icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/git.png" alt=" Git icon" height="60px" width="60px" />
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/bootstrap.png" alt="Bootstrap icon" height="60px" width="75px" />
-</p>
+</p> 
 
-# :bulb: Otras Tecnologias
+</br>
 
-<p>
-  <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/docker.png" alt="Docker icon" height="60px" width="60px"/>
-   <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/npm.png" alt="Npm icon" height="60px" width="60px" />
-   <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/git.png" alt=" Git icon" height="60px" width="60px" />
-</p>
+# :briefcase: Mis Proyectos
