@@ -38,4 +38,14 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
 :x: <strong>Tener un emprendimiento Tecnologico</strong> \
 :o: <strong>Tener los conocimientos suficientes para ser Fullstack</strong>
 
-# :pill: Habilidades
+# :pill: Tecnologias
+
+<p>
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/html.png" alt="Html icon" height="60px" width="60px"/>
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/css3.png" alt="CSS icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/javascript.png" alt=" JS icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/sass.png" alt="Sass icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/bootstrap.png" alt="Bootstrap icon" height="60px" width="75px" />
+</p>
+
+# Otras Tecnologias
