@@ -7,12 +7,15 @@
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:35px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="midudev" height="28px" width="28px"/>
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/web.png" alt="mi web icon" height="28px" width="28px"/>
   </a>
   <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/gmail.png" alt="Mi gmail icon" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/instagram.png" alt="Mi Instagram icon" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/midudev" target="blank">
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/twitter.png" alt="Mi Twitter icon" height="28px" width="28px" />
   </a>
 </p>
