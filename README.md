@@ -25,7 +25,7 @@
 # :man_technologist: Sobre Mi
 
 <p>
-Mi nombre es Steven Sol tengo 21 años soy <strong>Desarrollador Front End</strong> con 3 años de experiencia en la creacion de Aplicaciones y Paginas Web.
+Mi nombre es Steven Sol tengo 22 años soy <strong>Desarrollador Front End</strong> con 3 años de experiencia en la creacion de Aplicaciones y Paginas Web.
 Me gusta mucho aprender diferente tecnologias yo me considero una persona autodidacta. Soy amante al lenguaje de programacion Javascript y me gusta mucho jugar videojuegos
 
 </p>
