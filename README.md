@@ -9,7 +9,7 @@
    <a href="#" target="blank" style='margin-right:35px text-decoration:none'>
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/web.png" alt="mi web icon" height="28px" width="28px"/>
   </a>
-  <a href="#" target="blank">
+  <a href="#" target="blank" style="text-decoration:none">
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/gmail.png" alt="Mi gmail icon" height="28px" width="28px" />
   </a>
   <a href="#" target="blank">
