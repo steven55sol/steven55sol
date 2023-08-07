@@ -6,7 +6,7 @@
  <p align="center">Soy <strong>Desarrollador Front End :computer: </strong> Amante del Javascript :heart: <br />¡Revisa mi Perfil 👇!</p>
 
 <p align="center">
-   <a href="#" target="blank" style='margin-right:35px'>
+   <a href="#" target="blank" style='margin-right:35px text-decoration:none'>
     <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/web.png" alt="mi web icon" height="28px" width="28px"/>
   </a>
   <a href="#" target="blank">
