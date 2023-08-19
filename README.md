@@ -63,7 +63,7 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
     <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/proyecto1.png" width="400px" height="200px">
   </a> 
 
-  <a href="https://pomodoro-js-one.vercel.app/"  target="_blank">
+  <a href="https://pomodoro-js-mauve.vercel.app/"  target="_blank">
     <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/pomodoro.JPG" width="400px" height="200px">
   </a> 
 
