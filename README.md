@@ -68,7 +68,7 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
   </a> 
 
    <a href="https://filterdata4.netlify.app/"  target="_blank">
-    <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/pomodoro.JPG" width="400px" height="200px">
+    <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/filterSearch.jpg" width="400px" height="200px">
   </a>
 
 </p>
