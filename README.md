@@ -43,7 +43,14 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
 </br>
 
 <p>
-   <-- Aqui Agregare las imagenes de mis proyectos-->
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/html.png" alt="Html icon" height="60px" width="60px"/>
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/css3.png" alt="CSS icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/javascript.png" alt=" JS icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/sass.png" alt="Sass icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/docker.png" alt="Docker icon" height="60px" width="60px"/>
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/npm.png" alt="Npm icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/git.png" alt=" Git icon" height="60px" width="60px" />
+    <img align="center" src="https://github.com/steven55sol/steven55sol/blob/main/bootstrap.png" alt="Bootstrap icon" height="60px" width="75px" />
 </p> 
 
 </br>
@@ -53,19 +60,15 @@ Me gusta mucho aprender diferente tecnologias yo me considero una persona autodi
 <p width="400px">
   
   <a href="https://to-do-list-q92hcxl54-steven55sol.vercel.app/"  target="_blank">
-    <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/proyecto1.png" width="400px" height="200px">
   </a> 
 
   <a href="https://pomodoro-js-mauve.vercel.app/"  target="_blank">
-    <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/pomodoro.JPG" width="400px" height="200px">
   </a> 
 
    <a href="https://filterdata4.netlify.app/"  target="_blank">
-    <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/filterSearch.jpg" width="400px" height="200px">
   </a>
 
    <a href="https://listask.netlify.app"  target="_blank">
-    <img src="https://github.com/steven55sol/steven55sol/blob/main/img-project/listTask.jpg" width="400px" height="200px">
   </a>
 
 </p>
