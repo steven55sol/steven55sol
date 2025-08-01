@@ -2,7 +2,7 @@
   <img src="https://github.com/steven55sol/steven55sol/blob/main/logo-person.png" width="300px" alt="Logo personal" />
 </p>
 
-<h1 align="center">¡Hey 👋! Soy Steven Sol 🐺</h1>
+<h1 align="center">¡Hey 👋! Soy Steven Sol 🔆 </h1>
 
 <p align="center">
   <strong>Desarrollador Frontend</strong> apasionado por el desarrollo web y amante de JavaScript 💻❤️ <br>
