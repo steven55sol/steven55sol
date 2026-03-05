@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Hola! Me llamo **Steven Sol**, tengo 24 años y soy un desarrollador frontend con más de 3 años de experiencia creando sitios y aplicaciones web. Me encanta aprender nuevas tecnologías y siempre estoy buscando mejorar mis habilidades. Me considero **autodidacta**, **curioso** y **apasionado** por la programación.
+Hola! Me llamo **Steven Sol**, tengo 25 años y soy un desarrollador frontend con más de 3 años de experiencia creando sitios y aplicaciones web. Me encanta aprender nuevas tecnologías y siempre estoy buscando mejorar mis habilidades. Me considero **autodidacta**, **curioso** y **apasionado** por la programación.
 
 Además de programar, disfruto jugar videojuegos y explorar nuevas herramientas del ecosistema JavaScript.
 
