@@ -44,6 +44,8 @@ Además de programar, disfruto jugar videojuegos y explorar nuevas herramientas 
   <img src="https://github.com/steven55sol/steven55sol/blob/main/git.png" alt="Git" width="50px" />
 </p>
 
+![Steven55sol's GitHub farm](https://gitfarm-nu.vercel.app/api/farm?user=Steven55sol)
+
 ## 🚀 Proyectos Destacados
 
 Aquí algunos proyectos personales que he desarrollado. ¡Dales un vistazo! 👇
