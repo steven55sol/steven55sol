@@ -44,14 +44,5 @@ Además de programar, disfruto jugar videojuegos y explorar nuevas herramientas 
   <img src="https://github.com/steven55sol/steven55sol/blob/main/git.png" alt="Git" width="50px" />
 </p>
 
-## 🚀 Proyectos Destacados
-
-Aquí algunos proyectos personales que he desarrollado. ¡Dales un vistazo! 👇
-
-- 🔗 [To-Do List](https://to-do-list-q92hcxl54-steven55sol.vercel.app/)
-- 🔗 [Pomodoro App](https://pomodoro-js-mauve.vercel.app/)
-- 🔗 [Filtrado de Datos](https://filterdata4.netlify.app/)
-- 🔗 [Lista de Tareas](https://listask.netlify.app)
-
 
 Gracias por visitar mi perfil 💙 ¡Estoy abierto a colaborar o trabajar en nuevos retos!
